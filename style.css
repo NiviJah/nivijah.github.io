@@ -153,3 +153,11 @@ h3 {
 .vertical.flip-container:hover .flipper {
   transform: rotateX(-180deg);
 }
+
+
+@media (max-width: 1024px) {
+  .flip-container, .front, .back {
+      height: 50vw;
+      width: 90vw;
+  }
+}
