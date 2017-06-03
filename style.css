@@ -13,6 +13,7 @@ body {
   background-image: url(https://svite-league-apps-content.s3.amazonaws.com/bgimages/subtle-checkers.jpg);
   background-attachment: fixed;
   background-size: cover;
+  background-repeat: repeat;
 }
 
 h3 {
