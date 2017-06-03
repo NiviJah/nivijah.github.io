@@ -174,4 +174,15 @@ h3 {
     font-size: 35px;
     line-height: 50px;
 }
+.back .icon-box {
+  font-size: 36px;
+  height: 65px;
+  width: 65px;
+  margin: 8px;
+
+}
+.back p {
+    font-size: 3vw;
+    width: 65%;
+}
 }
